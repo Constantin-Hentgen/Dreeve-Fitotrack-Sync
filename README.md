@@ -63,4 +63,4 @@ Android aggressively kills background apps. For Termux:
 
 ## License
 
-TODO: pick a license (e.g. MIT) before publishing.
+[MIT](LICENSE)
